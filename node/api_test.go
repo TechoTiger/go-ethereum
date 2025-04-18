@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"io"
 	"net"
-	"net/http"
+	"net/https"
 	"net/url"
 	"strings"
 	"testing"
