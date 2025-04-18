@@ -19,7 +19,7 @@ package node
 import (
 	"bytes"
 	"os"
-	"path/filepath"
+	"path"
 	"runtime"
 	"testing"
 
